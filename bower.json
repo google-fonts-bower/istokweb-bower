@@ -1,0 +1,17 @@
+{
+    "name": "istokweb-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Andrey V. Panov"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/istokweb-bower.git"
+    },
+    "description": "Istok Web font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
